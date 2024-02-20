@@ -1,6 +1,6 @@
 ## Digital NFT Marketplace
 
-**Features of the NFT Marketplace:**
+**Features of the NFT Marketplace:**  
 🛠️ Complete marketplace built from scratch in Next.js 14  
 💻 Beautiful landing page & product pages included  
 🎨 Custom artwork  
